@@ -139,7 +139,7 @@ const config = {
             className: 'nav-link',
           },
           {
-            href: 'https://github.com/intrepidcs/vspy3korean-docs',
+            href: 'https://github.com/intrepidcs/vspy3-korean-docs',
             label: 'GitHub',
             position: 'right',
           },
